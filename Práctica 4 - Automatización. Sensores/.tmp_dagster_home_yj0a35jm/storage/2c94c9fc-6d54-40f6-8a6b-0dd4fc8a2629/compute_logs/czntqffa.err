@@ -1,7 +1,0 @@
-[32m2026-03-10 16:31:32 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2c94c9fc-6d54-40f6-8a6b-0dd4fc8a2629 - 165463 - LOGS_CAPTURED - Started capturing logs in process (pid: 165463).
-[32m2026-03-10 16:31:32 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2c94c9fc-6d54-40f6-8a6b-0dd4fc8a2629 - 165463 - cargar_codislas - STEP_START - Started execution of step "cargar_codislas".
-[32m2026-03-10 16:31:32 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2c94c9fc-6d54-40f6-8a6b-0dd4fc8a2629 - 165463 - cargar_codislas - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
-[32m2026-03-10 16:31:32 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2c94c9fc-6d54-40f6-8a6b-0dd4fc8a2629 - cargar_codislas - Writing file at: /home/pablo/Escritorio/visualizacion/Práctica 2 - Gramática de Gráficos. DataOps/.tmp_dagster_home_yj0a35jm/storage/cargar_codislas using PickledObjectFilesystemIOManager...
-[32m2026-03-10 16:31:32 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2c94c9fc-6d54-40f6-8a6b-0dd4fc8a2629 - 165463 - cargar_codislas - ASSET_MATERIALIZATION - Materialized value cargar_codislas.
-[32m2026-03-10 16:31:32 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2c94c9fc-6d54-40f6-8a6b-0dd4fc8a2629 - 165463 - cargar_codislas - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
-[32m2026-03-10 16:31:32 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2c94c9fc-6d54-40f6-8a6b-0dd4fc8a2629 - 165463 - cargar_codislas - STEP_SUCCESS - Finished execution of step "cargar_codislas" in 273ms.
