@@ -239,7 +239,7 @@ def grafico_renta_media(limpiar_renta):
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     p.save(OUTPUT_DIR / "renta_media.png", width=6, height=4, dpi=300)
 
-    subir_visualizaciones_github(OUTPUT_DIR / "renta_media.png")
+    subir_visualizaciones_github()
 
     return df_group
 
@@ -290,7 +290,7 @@ def grafico_renta_vs_ocupacion(unir_renta_ocupacion):
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     p.save(OUTPUT_DIR / "renta_vs_ocupacion.png", width=6, height=4, dpi=300)
 
-    subir_visualizaciones_github(OUTPUT_DIR / "renta_vs_ocupacion.png")
+    subir_visualizaciones_github()
 
     return df_group
 
@@ -357,7 +357,7 @@ def grafico_actividad_renta(unir_renta_actividad):
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     p.save(OUTPUT_DIR / "actividad_renta.png", width=7, height=4, dpi=300)
 
-    subir_visualizaciones_github(OUTPUT_DIR / "actividad_renta.png")
+    subir_visualizaciones_github()
 
     return df_group
 
@@ -386,7 +386,7 @@ def mapa_renta_2023(unir_renta_mapa):
     plt.savefig(OUTPUT_DIR / "mapa_renta_2023.png", dpi=300, bbox_inches="tight")
     plt.close()
 
-    subir_visualizaciones_github(OUTPUT_DIR / "mapa_renta_2023.png")
+    subir_visualizaciones_github()
 
     return gdf
 
@@ -419,7 +419,7 @@ def mapa_ocupacion_cualificada(unir_ocupacion_mapa):
     )
     plt.close()
 
-    subir_visualizaciones_github(OUTPUT_DIR / "mapa_ocupacion_cualificada_2023.png")
+    subir_visualizaciones_github()
 
     return gdf
 
@@ -452,7 +452,7 @@ def mapa_servicios(unir_servicios_mapa):
     )
     plt.close()
 
-    subir_visualizaciones_github(OUTPUT_DIR / "mapa_servicios_2023.png")
+    subir_visualizaciones_github()
 
     return gdf
 
