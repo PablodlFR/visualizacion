@@ -20,4 +20,5 @@ Este repositorio ha sido realizado por el alumno Pablo de la Fuente Rodríguez (
 * [Mapa Power BI](https://ulledues-my.sharepoint.com/:u:/g/personal/alu0101336152_ull_edu_es/IQAUHQNd5ASgR4IVz33k9t7sAVImaPGKyHzwHRoCOkthn2M?e=LQ1le9)
 
 ### Proyecto
-* [Carpeta] (https://github.com/PablodlFR/visualizacion/tree/main/Proyecto)
+* [Carpeta](https://github.com/PablodlFR/visualizacion/tree/main/Proyecto)
+* [Informe]
