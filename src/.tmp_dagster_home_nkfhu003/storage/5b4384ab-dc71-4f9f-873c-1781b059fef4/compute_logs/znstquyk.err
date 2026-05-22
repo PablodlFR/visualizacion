@@ -1,7 +1,0 @@
-[32m2026-05-04 19:03:14 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 5b4384ab-dc71-4f9f-873c-1781b059fef4 - 141372 - LOGS_CAPTURED - Capturing logs for process (pid: 141372).
-[32m2026-05-04 19:03:14 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 5b4384ab-dc71-4f9f-873c-1781b059fef4 - 141372 - cargar_renta - STEP_START - Started execution of step "cargar_renta".
-[32m2026-05-04 19:03:14 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 5b4384ab-dc71-4f9f-873c-1781b059fef4 - 141372 - cargar_renta - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
-[32m2026-05-04 19:03:14 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 5b4384ab-dc71-4f9f-873c-1781b059fef4 - cargar_renta - Writing file at: /home/pablo/Escritorio/visualizacion/Proyecto/src/.tmp_dagster_home_nkfhu003/storage/cargar_renta using PickledObjectFilesystemIOManager...
-[32m2026-05-04 19:03:14 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 5b4384ab-dc71-4f9f-873c-1781b059fef4 - 141372 - cargar_renta - ASSET_MATERIALIZATION - Materialized value cargar_renta.
-[32m2026-05-04 19:03:14 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 5b4384ab-dc71-4f9f-873c-1781b059fef4 - 141372 - cargar_renta - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
-[32m2026-05-04 19:03:14 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 5b4384ab-dc71-4f9f-873c-1781b059fef4 - 141372 - cargar_renta - STEP_SUCCESS - Finished execution of step "cargar_renta" in 161ms.

@@ -1,7 +1,0 @@
-[32m2026-05-09 17:16:14 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2357a10c-34ee-4f9c-b4a6-37be4a3b3e17 - 619073 - LOGS_CAPTURED - Capturing logs for process (pid: 619073).
-[32m2026-05-09 17:16:14 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2357a10c-34ee-4f9c-b4a6-37be4a3b3e17 - 619073 - cargar_geojson_2024 - STEP_START - Started execution of step "cargar_geojson_2024".
-[32m2026-05-09 17:16:15 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2357a10c-34ee-4f9c-b4a6-37be4a3b3e17 - 619073 - cargar_geojson_2024 - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
-[32m2026-05-09 17:16:15 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2357a10c-34ee-4f9c-b4a6-37be4a3b3e17 - cargar_geojson_2024 - Writing file at: /home/pablo/Escritorio/visualizacion/Proyecto/src/.tmp_dagster_home_nkfhu003/storage/cargar_geojson_2024 using PickledObjectFilesystemIOManager...
-[32m2026-05-09 17:16:15 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2357a10c-34ee-4f9c-b4a6-37be4a3b3e17 - 619073 - cargar_geojson_2024 - ASSET_MATERIALIZATION - Materialized value cargar_geojson_2024.
-[32m2026-05-09 17:16:15 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2357a10c-34ee-4f9c-b4a6-37be4a3b3e17 - 619073 - cargar_geojson_2024 - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
-[32m2026-05-09 17:16:15 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2357a10c-34ee-4f9c-b4a6-37be4a3b3e17 - 619073 - cargar_geojson_2024 - STEP_SUCCESS - Finished execution of step "cargar_geojson_2024" in 1.32s.
