@@ -1,0 +1,7 @@
+[32m2026-05-05 18:44:52 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - c06c4530-02be-4794-b800-4090b1d5c3cc - 543181 - LOGS_CAPTURED - Capturing logs for process (pid: 543181).
+[32m2026-05-05 18:44:52 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - c06c4530-02be-4794-b800-4090b1d5c3cc - 543181 - cargar_ocupacion - STEP_START - Started execution of step "cargar_ocupacion".
+[32m2026-05-05 18:44:52 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - c06c4530-02be-4794-b800-4090b1d5c3cc - 543181 - cargar_ocupacion - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2026-05-05 18:44:52 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - c06c4530-02be-4794-b800-4090b1d5c3cc - cargar_ocupacion - Writing file at: /home/pablo/Escritorio/visualizacion/Proyecto/src/.tmp_dagster_home_nkfhu003/storage/cargar_ocupacion using PickledObjectFilesystemIOManager...
+[32m2026-05-05 18:44:52 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - c06c4530-02be-4794-b800-4090b1d5c3cc - 543181 - cargar_ocupacion - ASSET_MATERIALIZATION - Materialized value cargar_ocupacion.
+[32m2026-05-05 18:44:52 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - c06c4530-02be-4794-b800-4090b1d5c3cc - 543181 - cargar_ocupacion - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2026-05-05 18:44:52 +0100[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - c06c4530-02be-4794-b800-4090b1d5c3cc - 543181 - cargar_ocupacion - STEP_SUCCESS - Finished execution of step "cargar_ocupacion" in 657ms.
