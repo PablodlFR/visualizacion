@@ -13,3 +13,11 @@ Este repositorio ha sido realizado por el alumno Pablo de la Fuente Rodríguez (
 ### Práctica 3 - Calidad de la Visualización. Checks
 * [Carpeta](https://github.com/PablodlFR/visualizacion/tree/main/Pr%C3%A1ctica%203%20-%20Calidad%20de%20la%20VIsualizaci%C3%B3n.%20Checks)
 * [Informe](https://drive.google.com/file/d/1PCHJLjwaCuT1M3sOhPMqTYoMS9jNn5yY/view?usp=sharing)
+
+### Práctica 4 - Automatizaciones. Sensores
+* [Carpeta](https://github.com/PablodlFR/visualizacion/tree/main/Pr%C3%A1ctica%204%20-%20Automatizaci%C3%B3n.%20Sensores)
+* [Informe](https://drive.google.com/file/d/1bsKGP34IGxcaBISjgzyJ7XAwvk5YrgdT/view?usp=sharing)
+* [Mapa Power BI](https://ulledues-my.sharepoint.com/:u:/g/personal/alu0101336152_ull_edu_es/IQAUHQNd5ASgR4IVz33k9t7sAVImaPGKyHzwHRoCOkthn2M?e=LQ1le9)
+
+### Proyecto
+* [Carpeta] (https://github.com/PablodlFR/visualizacion/tree/main/Proyecto)
