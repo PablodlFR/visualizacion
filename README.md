@@ -17,7 +17,7 @@ Este repositorio ha sido realizado por el alumno Pablo de la Fuente Rodríguez (
 ### Práctica 4 - Automatizaciones. Sensores
 * [Carpeta](https://github.com/PablodlFR/visualizacion/tree/main/Pr%C3%A1ctica%204%20-%20Automatizaci%C3%B3n.%20Sensores)
 * [Informe](https://drive.google.com/file/d/1bsKGP34IGxcaBISjgzyJ7XAwvk5YrgdT/view?usp=sharing)
-* [Mapa Power BI](https://ulledues-my.sharepoint.com/:u:/g/personal/alu0101336152_ull_edu_es/IQAUHQNd5ASgR4IVz33k9t7sAVImaPGKyHzwHRoCOkthn2M?e=LQ1le9)
+* [Mapa Power BI](https://ulledues-my.sharepoint.com/:u:/g/personal/alu0101336152_ull_edu_es/IQAUHQNd5ASgR4IVz33k9t7sAVImaPGKyHzwHRoCOkthn2M?e=LQ1le9) (Online) (Es necesario iniciar sesión con la cuenta de la ULL)
 
 ### Proyecto
 * [Carpeta](https://github.com/PablodlFR/visualizacion/tree/main/Proyecto)
