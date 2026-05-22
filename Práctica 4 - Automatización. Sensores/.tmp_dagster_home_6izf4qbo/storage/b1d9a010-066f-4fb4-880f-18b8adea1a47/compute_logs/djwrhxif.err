@@ -1,0 +1,7 @@
+[32m2026-03-28 17:24:45 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - b1d9a010-066f-4fb4-880f-18b8adea1a47 - 116150 - LOGS_CAPTURED - Started capturing logs in process (pid: 116150).
+[32m2026-03-28 17:24:45 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - b1d9a010-066f-4fb4-880f-18b8adea1a47 - 116150 - cargar_codislas - STEP_START - Started execution of step "cargar_codislas".
+[32m2026-03-28 17:24:45 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - b1d9a010-066f-4fb4-880f-18b8adea1a47 - 116150 - cargar_codislas - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
+[32m2026-03-28 17:24:45 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - b1d9a010-066f-4fb4-880f-18b8adea1a47 - cargar_codislas - Writing file at: /home/pablo/Escritorio/visualizacion/Práctica 4 - Automatización. Sensores/.tmp_dagster_home_6izf4qbo/storage/cargar_codislas using PickledObjectFilesystemIOManager...
+[32m2026-03-28 17:24:45 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - b1d9a010-066f-4fb4-880f-18b8adea1a47 - 116150 - cargar_codislas - ASSET_MATERIALIZATION - Materialized value cargar_codislas.
+[32m2026-03-28 17:24:45 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - b1d9a010-066f-4fb4-880f-18b8adea1a47 - 116150 - cargar_codislas - HANDLED_OUTPUT - Handled output "result" using IO manager "io_manager"
+[32m2026-03-28 17:24:45 +0000[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - b1d9a010-066f-4fb4-880f-18b8adea1a47 - 116150 - cargar_codislas - STEP_SUCCESS - Finished execution of step "cargar_codislas" in 157ms.
