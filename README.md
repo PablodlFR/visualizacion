@@ -22,3 +22,4 @@ Este repositorio ha sido realizado por el alumno Pablo de la Fuente Rodríguez (
 ### Proyecto
 * [Carpeta](https://github.com/PablodlFR/visualizacion/tree/main/Proyecto)
 * [Informe](https://drive.google.com/file/d/1i8K3yrSrqNjxdFiYMuZmUsfgBUyZvZy3/view?usp=sharing)
+* [Presentación](https://drive.google.com/file/d/1Q01KluGT_iqLlAPSWYPk7gm3z5BD-rmQ/view?usp=sharing)
