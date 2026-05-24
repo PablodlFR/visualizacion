@@ -10,7 +10,7 @@ pipeline_rentas_job = define_asset_job(
 # SENSOR → detecta cambios en el dataset
 @sensor(job=pipeline_rentas_job)
 def sensor_rentas(context):
-    ruta_fichero = "./data/distribucion-renta-canarias.csv"
+    ruta_fichero = "./data/rentamedia.csv"
     
     # Verificar que existe el fichero
     if not os.path.exists(ruta_fichero):
